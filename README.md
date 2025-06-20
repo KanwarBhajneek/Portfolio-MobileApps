@@ -5,6 +5,7 @@ Screenshots of mobile apps i built in past
 - [Yelp Review App](#yelp-review-app) : AndroidSDK, Java
 - [Search Nearby Places App](#search-nearby-places-app) : AndroidSDK, Java, GoogleMaps APIs
 - [Bluetooth Beacon App](#bluetooth-beacon-configure-app) : React Native, Javascript, Scan/Connect/Configure BLE beacons
+- [Calorie App](#calorie-app) : React Native, Javascript, Firebase Realtime-DB and object storage
 
 ## Stocks App
 
@@ -40,5 +41,11 @@ Screenshots of mobile apps i built in past
 ## Bluetooth Beacon configure App
 ||||
 |-|-|-|
-|![MiniBluetoothApp1](https://github.com/user-attachments/assets/0acb36c4-b7d1-46e4-a335-a91e2f88f782)|![MiniBluetoothApp2](https://github.com/user-attachments/assets/335becc7-c227-4d98-abfe-28eaeeca2d4a)||
+|<img src="https://github.com/user-attachments/assets/0acb36c4-b7d1-46e4-a335-a91e2f88f782" alt="MiniBluetoothApp1" width="338"/>|<img src="https://github.com/user-attachments/assets/335becc7-c227-4d98-abfe-28eaeeca2d4a" alt="MiniBluetoothApp2" width="338"/>||
+### [Back To Top ↑](#portfolio-mobileapps)
+
+## Calorie App
+||||
+|-|-|-|
+|<img width="338" alt="calorie1" src="https://github.com/user-attachments/assets/31aec156-d5a8-4f11-9f31-b8c803f30c57" />|<img width="338" alt="calorie2" src="https://github.com/user-attachments/assets/d4a9b16b-d630-443a-a187-bb5af0ede180" />|
 ### [Back To Top ↑](#portfolio-mobileapps)
