@@ -4,6 +4,7 @@ Screenshots of mobile apps i built in past
 - [Recipe App](#recipe-app) : React Native, Javascript, AsyncStorage
 - [Yelp Review App](#yelp-review-app) : AndroidSDK, Java
 - [Search Nearby Places App](#search-nearby-places-app) : AndroidSDK, Java, GoogleMaps APIs
+- [Bluetooth Beacon App](#bluetooth-beacon-configure-app) : React Native, Javascript, Scan/Connect/Configure BLE beacons
 
 ## Stocks App
 
@@ -36,3 +37,8 @@ Screenshots of mobile apps i built in past
 |![Search No Frills](https://github.com/user-attachments/assets/025ab3eb-22f4-493a-bcad-8a342b285992)|![Show All Nearby No Frills](https://github.com/user-attachments/assets/1a56ad16-1f5c-463c-b524-c1ecce936d42)|![History](https://github.com/user-attachments/assets/baad6002-40a6-4983-b1b2-9805b8fc6a2b)|
 ### [Back To Top ↑](#portfolio-mobileapps)
 
+## Bluetooth Beacon configure App
+||||
+|-|-|-|
+|![MiniBluetoothApp1](https://github.com/user-attachments/assets/0acb36c4-b7d1-46e4-a335-a91e2f88f782)|![MiniBluetoothApp2](https://github.com/user-attachments/assets/335becc7-c227-4d98-abfe-28eaeeca2d4a)||
+### [Back To Top ↑](#portfolio-mobileapps)
