@@ -7,6 +7,10 @@ Screenshots of mobile apps i built in past
 - [Bluetooth Beacon App](#bluetooth-beacon-configure-app) : React Native, Javascript, Scan/Connect/Configure BLE beacons
 - [Calorie App](#calorie-app) : React Native, Javascript, Firebase Realtime-DB and object storage
 
+Professional during Jobs (Public apps)
+- [Workers App](#workers-app) : Wyzelink Systems, React Native, Javascript
+- [Order Ahead](#order-ahead) : Smooth Commerce, AndroidSDK, Java
+
 ## Stocks App
 
 | | | |
@@ -49,3 +53,20 @@ Screenshots of mobile apps i built in past
 |-|-|-|
 |<img width="338" alt="calorie1" src="https://github.com/user-attachments/assets/31aec156-d5a8-4f11-9f31-b8c803f30c57" />|<img width="338" alt="calorie2" src="https://github.com/user-attachments/assets/d4a9b16b-d630-443a-a187-bb5af0ede180" />|
 ### [Back To Top ↑](#portfolio-mobileapps)
+
+## Workers App
+||||
+|-|-|-|
+|![IMG-0971](https://github.com/user-attachments/assets/8d08d930-0b12-44f3-819a-6257bc85c3f1)|![IMG-0972](https://github.com/user-attachments/assets/e11dc0f9-efb6-43c6-8896-ee0cc9947db0)|![IMG-0975](https://github.com/user-attachments/assets/0b404798-215e-419b-8482-a1a3cd1f9ea4)|
+|![IMG-0977](https://github.com/user-attachments/assets/f647e526-7159-42cf-86ea-22783b768878)|![IMG-0976](https://github.com/user-attachments/assets/10e7f6a2-bae0-4c08-992d-e4b69aebf859)|![IMG-0980](https://github.com/user-attachments/assets/604eebb9-95d7-43d6-b73d-ca603072b610)|
+|![IMG-0981](https://github.com/user-attachments/assets/803eafbf-e032-4383-94da-43b110795999)|![IMG-0978](https://github.com/user-attachments/assets/26f35bac-2d1c-4020-b89d-a54b34745d43)|![IMG-0979](https://github.com/user-attachments/assets/722061a0-8d80-480d-b485-f9bf138364e5)|
+|![IMG-0982](https://github.com/user-attachments/assets/6f195988-66fa-4c1b-8d61-9aa9099c5f96)|||
+### [Back To Top ↑](#portfolio-mobileapps)
+
+## Order Ahead
+||||
+|-|-|-|
+|![Screenshot_20170717-210356](https://github.com/user-attachments/assets/507cd087-4c3f-4897-af65-a99ef4db34d1)|![Screenshot_20170717-210423](https://github.com/user-attachments/assets/83b9db35-3a93-45f8-9f4d-bbc24b132f36)|![Screenshot_20170717-210504](https://github.com/user-attachments/assets/d2128869-af34-4176-9f9d-2f8475cc7c7b)|
+|![Screenshot_20170717-210616](https://github.com/user-attachments/assets/7af9a447-082d-4bee-bcb0-4637c1b45f0c)|![Screenshot_20170717-210640](https://github.com/user-attachments/assets/805a63ec-55b1-4eb4-af8d-be1e8d63469d)|![Screenshot_20170717-210650](https://github.com/user-attachments/assets/e0609ea5-8f22-4b53-b44a-be72c809969c)|
+### [Back To Top ↑](#portfolio-mobileapps)
+
